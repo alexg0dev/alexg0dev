@@ -10,7 +10,7 @@ I build and host websites for local businesses, and I designed and built [Yumio]
 A GCSE revision app with an AI tutor, examiner-style marking, and a whiteboard that writes while it explains. I wrote it in HTML, CSS and JavaScript, with a Node.js and Express server and PostgreSQL (Supabase), and I host it on Railway. The source stays private because it is a live product with user accounts.
 
 **[Melissa's Melts](https://melissasmelts.com)**  
-A freelance website for a local business. HTML, CSS and Tailwind CSS, hosted on Railway. Source: [alexg0dev/melissasmelts](https://github.com/alexg0dev/melissasmelts).
+A freelance website for a local business. HTML, CSS and Tailwind CSS, hosted on Railway.
 
 **[ghanem.uk](https://ghanem.uk)**  
 My public site as Bury's Member of Youth Parliament.
@@ -22,7 +22,7 @@ The company behind Yumio.
 
 I work part-time as an IT Technician at Eleganze LTD. There I write Python tools and Excel VBA macros for warehouse processes, including a label-printing tool that uses OCR and vision models through the OpenRouter API.
 
-I also volunteer with HAQQ, a community aid project. The site is at [alexg0dev/haqqlb](https://github.com/alexg0dev/haqqlb).
+I also volunteer with HAQQ, a community aid project. 
 
 ## What I work with
 
