@@ -18,6 +18,19 @@ My public site as Bury's Member of Youth Parliament.
 **[Prismwell Group](https://prismwell.group)**  
 The company behind Yumio.
 
+## Projects
+
+Small public projects, each with a live demo.
+
+**[Flashcards](https://github.com/alexg0dev/vue-flashcards)** ([live demo](https://alexg0dev.github.io/vue-flashcards/))  
+A flashcard app with decks, card flipping and simple spaced repetition. Built with Vue 3, Vite and SASS, saved in localStorage, with Vitest unit and component tests.
+
+**[Weather Forecast](https://github.com/alexg0dev/bootstrap-weather)** ([live demo](https://alexg0dev.github.io/bootstrap-weather/))  
+Search any city for the current weather and a 7-day forecast. Built with Bootstrap 5 and jQuery, using AJAX calls to the Open-Meteo REST API.
+
+**[Spoke & Chain landing page](https://github.com/alexg0dev/sass-landing-page)** ([live demo](https://alexg0dev.github.io/sass-landing-page/))  
+A responsive, accessible landing page for a made-up bike repair shop. Semantic HTML and SASS, using BEM, variables and mixins, with no CSS framework.
+
 ## Other work
 
 I work part-time as an IT Technician at Eleganze LTD. There I write Python tools and Excel VBA macros for warehouse processes, including a label-printing tool that uses OCR and vision models through the OpenRouter API.
